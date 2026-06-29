@@ -73,7 +73,6 @@ curl http://localhost:8080/events
 
 ## Roadmap
 
-* Add async worker pool
 * Add channel-based event queue
 * Persist events with PostgreSQL
 * Add alert rules
